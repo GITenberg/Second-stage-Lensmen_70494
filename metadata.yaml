@@ -1,0 +1,52 @@
+_repo: Second-stage-Lensmen_70494
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Rogers, Hubert
+    alias: Rogers, Reginald Hubert
+    birthdate: 1898
+    deathdate: 1982
+    gutenberg_agent_id: '55772'
+    url: http://www.gutenberg.org/2009/agents/55772
+creator:
+  author:
+    agent_name: Smith, E. E. (Edward Elmer)
+    aliases:
+    - Smith, Edward Elmer
+    - Smith, Doc
+    - Smith, Edward E.
+    - Smith, E.E.
+    birthdate: 1890
+    deathdate: 1965
+    gutenberg_agent_id: '9515'
+    url: http://www.gutenberg.org/2009/agents/9515
+    wikipedia: https://en.wikipedia.org/wiki/E._E._Smith
+description: ''
+gutenberg_issued: '2023-04-07'
+identifiers:
+  gutenberg: '70494'
+language: en
+pgterms:marc905: 20220603161339smith
+pgterms:marc906: '1941'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bStreet & Smith Publications, Incorporated,
+  $c1941, copyright 1942.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Lensman 5.
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Space warfare -- Fiction'
+- !lcsh 'Telepathy -- Fiction'
+- !lcsh 'Life on other planets -- Fiction'
+- !lcsh 'Peace officers -- Fiction'
+- !lcsh 'Space pirates -- Fiction'
+- !lcsh 'Organized crime -- Fiction'
+- !lcsh 'Undercover operations -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Second stage Lensmen
+url: http://www.gutenberg.org/ebooks/70494
